@@ -1,0 +1,9 @@
+API prof code: https://github.com/khunly82/Puissance4.API
+
+API prof deploined: https://puissance4.azurewebsites.net/
+		
+	/swagger
+
+
+
+Angular front prof: https://github.com/khunly82/puissanc4.ng

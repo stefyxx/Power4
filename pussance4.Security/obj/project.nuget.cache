@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "uDlEyyuLXj+aYi2R9UrT1Jj+uD4Jg0DFCjR1wUvOzGKJalkJjG6I8FJkcpAtKJLmJIBWyMrpZO4c70NhLguR0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admindc\\Desktop\\puissance4\\pussance4.Security\\pussance4.Security.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admindc\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.0.3\\microsoft.identitymodel.abstractions.7.0.3.nupkg.sha512",
+    "C:\\Users\\admindc\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.0.3\\microsoft.identitymodel.jsonwebtokens.7.0.3.nupkg.sha512",
+    "C:\\Users\\admindc\\.nuget\\packages\\microsoft.identitymodel.logging\\7.0.3\\microsoft.identitymodel.logging.7.0.3.nupkg.sha512",
+    "C:\\Users\\admindc\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.0.3\\microsoft.identitymodel.tokens.7.0.3.nupkg.sha512",
+    "C:\\Users\\admindc\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.0.3\\system.identitymodel.tokens.jwt.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

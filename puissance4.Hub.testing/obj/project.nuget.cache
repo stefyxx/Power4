@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "I6V4TgcEYR5APBGT4bzgi1c1pD49IFuWxb4nnBIbMzaNJdSyQslGduPmmnf9DAGG2z3PAQOxxit+LHd3DiCA/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admindc\\Desktop\\puissance4\\puissance4.Hub.testing\\puissance4.Hub.testing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admindc\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\8.0.0\\microsoft.aspnetcore.connections.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\admindc\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client\\8.0.0\\microsoft.aspnetcore.http.connections.client.8.0.0.nupkg.sha512",
+    "C:\\Users\\admindc\\.nuget\\packages\\microsoft.aspnetcore.http.connections.common\\8.0.0\\microsoft.aspnetcore.http.connections.common.8.0.0.nupkg.sha512",
+    "C:\\Users\\admindc\\.nuget\\packages\\microsoft.aspnetcore.signalr.client\\8.0.0\\microsoft.aspnetcore.signalr.client.8.0.0.nupkg.sha512",
+    "C:\\Users\\admindc\\.nuget\\packages\\microsoft.aspnetcore.signalr.client.core\\8.0.0\\microsoft.aspnetcore.signalr.client.core.8.0.0.nupkg.sha512",
+    "C:\\Users\\admindc\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\8.0.0\\microsoft.aspnetcore.signalr.common.8.0.0.nupkg.sha512",
+    "C:\\Users\\admindc\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json\\8.0.0\\microsoft.aspnetcore.signalr.protocols.json.8.0.0.nupkg.sha512",
+    "C:\\Users\\admindc\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\admindc\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\admindc\\.nuget\\packages\\microsoft.extensions.features\\8.0.0\\microsoft.extensions.features.8.0.0.nupkg.sha512",
+    "C:\\Users\\admindc\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\admindc\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\admindc\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\admindc\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\admindc\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
+    "C:\\Users\\admindc\\.nuget\\packages\\system.threading.channels\\8.0.0\\system.threading.channels.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
