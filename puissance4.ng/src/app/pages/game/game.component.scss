@@ -1,0 +1,18 @@
+.grid{
+    display: flex;
+    .col{
+        display: flex;
+        flex-direction: column-reverse; //perché si scende
+        .case{
+            height: 35px;
+            width: 35px;
+            border: 1px solid black;
+            .coin{
+                height: 100%;
+                width: 100%;
+                border-radius: 50%;
+            }
+        }
+    }
+
+}

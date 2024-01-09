@@ -1,0 +1,22 @@
+<!-- <input type="text" [(ngModel)]="message">
+<button (click)="send()">send</button> -->
+
+<button (click)="createGame()">Crea una partita</button>
+<ul>
+    @for (game of games; track $index) {
+        <li>
+            <span>{{game.gameId}}</span>
+            @if(game.redPlayer){
+                <span>{{game.redPlayer}}</span>
+            }
+            @else {
+                <button (click)="Join(game.gameId)">Raggiungere la partita</button>
+            }
+            <span> VS </span>
+            @if(game.yellowPlayer){
+                <span>{{game.yellowPlayer}}</span>
+            }
+            
+        </li>
+    }
+</ul>

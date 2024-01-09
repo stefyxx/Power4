@@ -1,0 +1,15 @@
+@if(!currentGame.redPlayer || !currentGame.ryellowPlayer){
+    <p>In attesa di avversario</p>
+}
+@else {
+    <p>La partita comincia</p>
+    <div class="grid">
+        <div *ngFor="let col of currentGame.grid" class="col">
+            <div *ngFor="let case of col" class="case">
+                <div *ngIf="case != null" class="coin" [ngClass]="{yellow: case === 0, red: case === 1}">
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+}
